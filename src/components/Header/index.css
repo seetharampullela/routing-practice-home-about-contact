@@ -1,0 +1,32 @@
+/* Write your CSS code here */
+.navigation-container {
+  height: 10vh;
+  margin: 0px;
+}
+
+.header-list-container {
+  display: flex;
+  list-style-type: none;
+  justify-content: space-between;
+}
+.header-right-elements {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.header-left-elements {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.wave-img {
+  width: 30px;
+  height: 30px;
+  margin-right: 10px;
+}
+li {
+  font-weight: bold;
+  margin-right: 10px;
+  text-decoration: none;
+  color: #12022f;
+}
